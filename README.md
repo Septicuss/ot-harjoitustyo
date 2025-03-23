@@ -1,7 +1,8 @@
-# Ohjelmistotekniikka, harjoitustyö
+# Software Engineering, practice work
 
-*Application to batch-compress videos. Inspired by [8mb.video](https://8mb.video/)*
+Subject:
+*A Python desktop application to batch-compress videos. Inspired by [8mb.video](https://8mb.video/)*
 
-### Laskarit
+### Assignments
 
-[Viikko 1](https://github.com/Septicuss/ot-harjoitustyo/blob/master/laskarit/viikko1/viikko1.md)
+[Week 1](https://github.com/Septicuss/ot-harjoitustyo/blob/master/laskarit/viikko1/)
