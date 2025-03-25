@@ -6,3 +6,4 @@ Subject:
 ### Assignments
 
 [Week 1](https://github.com/Septicuss/ot-harjoitustyo/blob/master/laskarit/viikko1/)
+[Week 2](https://github.com/Septicuss/ot-harjoitustyo/blob/master/laskarit/viikko2/)
