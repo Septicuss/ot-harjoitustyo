@@ -3,7 +3,10 @@
 Subject:
 *A Python desktop application to batch-compress videos. Inspired by [8mb.video](https://8mb.video/)*
 
-### Assignments
+### Links
 
-[Week 1](https://github.com/Septicuss/ot-harjoitustyo/blob/master/laskarit/viikko1/)
-[Week 2](https://github.com/Septicuss/ot-harjoitustyo/blob/master/laskarit/viikko2/)
+- Tasks
+	- [Week 1](https://github.com/Septicuss/otharjoitustyo/blob/master/laskarit/viikko1/)
+	- [Week 2](https://github.com/Septicuss/ot-harjoitustyo/blob/master/laskarit/viikko2/)
+- [Specification](https://github.com/Septicuss/ot-harjoitustyo/blob/master/documentation/specification.md)
+- [Time Tracking](https://github.com/Septicuss/ot-harjoitustyo/blob/master/documentation/timetracking.md)
