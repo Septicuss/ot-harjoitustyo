@@ -8,5 +8,6 @@ Subject:
 - Tasks
 	- [Week 1](https://github.com/Septicuss/ot-harjoitustyo/blob/master/laskarit/viikko1/)
 	- [Week 2](https://github.com/Septicuss/ot-harjoitustyo/blob/master/laskarit/viikko2/)
+	- [Week 3](https://github.com/Septicuss/ot-harjoitustyo/blob/master/laskarit/viikko3/)
 - [Specification](https://github.com/Septicuss/ot-harjoitustyo/blob/master/documentation/specification.md)
 - [Time Tracking](https://github.com/Septicuss/ot-harjoitustyo/blob/master/documentation/timetracking.md)
