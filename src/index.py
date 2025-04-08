@@ -1,21 +1,16 @@
-from model.jobs import Job
-from services.job_service import JobService
+from compression.jobs import Job, JobService
 
 CLI_MODE = True
 
+
 def main():
-
     service = JobService()
-
-    path = "/home/videos"
-    output = "/home/converted"
-    preset = "test"
-    output_format = "test.mp4"
-    job = Job(path, output, preset, output_format)
-
+    job = Job(
+        input_path="/mnt/c/Users/vbala/Videos/test",
+        output_path="/mnt/c/Users/vbala/Videos/output",
+        output_format="%file%.%ext%",
+    )
     service.process(job)
-
-    pass
 
 
 if __name__ == '__main__':

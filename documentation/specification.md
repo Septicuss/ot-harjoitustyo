@@ -10,9 +10,8 @@ This project comes from the need to manage a collection of short gameplay clips,
 
 **Compression (cli)**
 
-* Hard-coded presets for target sizes ( for ex. 8mb, 20mb )
+* Target size of 8mb
 * Be able to specify the output file name format ( for ex. "{date}_compressed" )
-* For all types below, specify a preset which will be applied to videos
 * For directories - take an input and specify an output directory
 * For files - take an input file and specify an output file
 * Show progress
